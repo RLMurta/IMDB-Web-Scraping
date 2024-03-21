@@ -1,5 +1,7 @@
 #  IMDB Software of Hollywood Actors and Actresses
 
+This code was written while I was abroad studying in Germany for my exchange program. It was my first contact with web scraping with Python.
+
 ## Requirements
    * python3 
    * requests → `pip install requests`
